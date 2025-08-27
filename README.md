@@ -74,5 +74,5 @@ pip install pandas matplotlib seaborn missingno openpyxl
 
 ## 📬 Contact
 Author: Abhinav Bhardwaj  
-- LinkedIn: [Your LinkedIn]  
-- GitHub: [Your GitHub]  
+- LinkedIn: www.linkedin.com/in/abhinav--bhardwaj  
+- GitHub: https://github.com/AbhiinavBhardwaj  
